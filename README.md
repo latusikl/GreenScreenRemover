@@ -10,7 +10,7 @@ Crucial project facts:
 * WPF GUI
 * Multithreading realized with [SmartThreadPool](https://github.com/amibar/SmartThreadPool) 
 
-Project requirement was to guarantee usage of choosen amount of threads even if it is not optimal. And this bevaviour is not guaranteed by default C# implementation's.*
+Project requirement was to guarantee usage of choosen amount of threads even if it is not optimal. And this bevaviour is not guaranteed by default C# implementation's.
 
 * C++ Dll.
 * MASM Dll with usage of SSE.
